@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string name="firebase_server_key" translatable="false">BEmIje9cbY80Oy6uv4R6jO0FatN3bYp7i7lNbYQvb8Ic9wMVQn3c37XCO3HwDDloM3-Xy7CoKgufGXmfiS2IyQ4</string>
+    <attr name="overlaySurface" format="boolean" />
+
+    <string name="okay">OKAY</string>
+    <string name="photo_access">Photo Access</string>
+    <string name="to_upload_photos_from">To upload photos from your device,\nDostikarlo needs to access your\nphotos.\nPlease tap \'Allow\' in the next step.</string>
+
+
+    <string name="free">Free</string>
+    <string name="credits_capital">Credits</string>
+
+</resources>
+
+
+
+
+
+

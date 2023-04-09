@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1011252402459",
+    "project_id": "dostikarlo-82524",
+    "storage_bucket": "dostikarlo-82524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011252402459:android:cc651d234a3d7f7de79bbe",
+        "android_client_info": {
+          "package_name": "com.karlo.Dostikarlo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011252402459-f0jpqjc75oba2lmj7avvt3ueljlgn3p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karlo.Dostikarlo",
+            "certificate_hash": "9bdadd4c6b48f5084a38db2e492bf7b4fe377118"
+          }
+        },
+        {
+          "client_id": "1011252402459-791e65aov2cef8ip766bojktac6n17kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG3TZTlOmBKgTPdKGXHJbD8MxWqVaHa5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011252402459-791e65aov2cef8ip766bojktac6n17kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
